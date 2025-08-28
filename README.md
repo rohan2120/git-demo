@@ -1,4 +1,4 @@
 # git-demo
 Git Demo Repository
 <br>
-Author - Rohan
+Author - Rohan S
